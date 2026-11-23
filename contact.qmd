@@ -25,6 +25,6 @@ University of Alcalá, Spain
 :::
 
 ::: {.contact-photo}
-![Portrait of Pablo Peña-Aguilera](images/6.Contact.jpg)
+![](images/6.Contact.jpg)
 :::
 :::

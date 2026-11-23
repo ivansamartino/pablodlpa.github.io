@@ -137,7 +137,7 @@ I have also contributed to student supervision, including **co-supervision of a 
 ::: {.outreach-gallery}
 
 <!-- Photo to the right of the leadership and mentoring text. -->
-![Collaborative ecological fieldwork](images/5.Research_leadership.jpg)
+![](images/5.Research_leadership.jpg)
 
 :::
 
