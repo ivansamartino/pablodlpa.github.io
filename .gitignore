@@ -1,0 +1,19 @@
+# RStudio user/session files (never share)
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Quarto cache and temporary output
+.quarto/
+_site/
+**/*.quarto_ipynb
+
+# System clutter
+.DS_Store
+Thumbs.db
+
+# IMPORTANT: do not ignore docs/.
+# GitHub Pages can serve the rendered HTML from main /docs.
+
+/.quarto/
