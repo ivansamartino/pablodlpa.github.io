@@ -19,9 +19,7 @@ University of Alcalá, Spain
 
 [**ORCID** ](https://orcid.org/0000-0002-8999-1140)
 
-[**GitHub**](https://github.com/pablodlpa)
-
-[**ResearchGate**](https://www.researchgate.net/profile/Pablo-Pena-8)
+[**ResearchGate**](https://www.researchgate.net/profile/Pablo-De-La-Pena-Aguilera)
 
 [Download CV (PDF)](files/CV.pdf){.btn .btn-primary download="CV_Pablo_Oct2026.pdf"}
 :::
