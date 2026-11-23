@@ -41,7 +41,7 @@ My research revolves around a broad question: **why do species occur where they 
 
 During my PhD at the Swedish University of Agricultural Sciences, I explored **how microclimate, environmental gradients, and ecological processes shape plant, arthropod, and microbial communities across subarctic landscapes**.
 
-I later joined MNCN-CSIC, where my research focused on **the reliability and transferability of species distribution models**, particularly how well they predict species distributions beyond the regions in which they were developed.
+I later joined the National Museum of Natural Sciences (MNCN-CSIC), where my research focused on **the reliability and transferability of species distribution models**, particularly how well they predict species distributions beyond the regions in which they were developed.
 
 I am currently working at the University of Alcalá, investigating **pathogens in wild bumblebees** and exploring **how environmental conditions and host characteristics influence their prevalence**.
 
