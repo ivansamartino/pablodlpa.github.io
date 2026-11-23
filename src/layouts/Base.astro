@@ -16,7 +16,7 @@ const {
   description = 'Pablo de la Peña Aguilera (Peña-Aguilera, P.) is an ecologist and biogeographer at the University of Alcalá researching community assembly, species distribution models and wild bee pathogens.',
 } = Astro.props;
 const pageTitle = title === NAME ? `${NAME} · Ecologist & Biogeographer` : `${title} · ${NAME}`;
-const canonical = new URL(Astro.url.pathname, Astro.site);
+const canonical = new URL(Astro.url.pathname.replace(/index\.html$/, ''), Astro.site);
 // Only the real site is indexed; fork or local preview builds stay out of search results.
 const indexable = Astro.site?.host === 'pablodlpa.github.io';
 const isHome = Astro.url.pathname === import.meta.env.BASE_URL || Astro.url.pathname === `${import.meta.env.BASE_URL.replace(/\/$/, '')}/index.html`;
